@@ -30,7 +30,7 @@
 > **Using Power BI, I created an interactive, user-friendly dashboard. This tool visually presents sales trends, regional distributions, and key performance metrics in a clear and engaging way. Along the journey, I also leveraged some Excel techniques for data prep to ensure everything was in tip-top shape.**
 
 > Impact on Business Processes:
-> *Beyond just crunching numbers, this report is all about how data-driven decision making can transform business processes. It’s a practical demonstration of how using the right tools and methods can lead to smarter, more informed strategies.*
+> **Beyond just crunching numbers, this report is all about how data-driven decision making can transform business processes. It’s a practical demonstration of how using the right tools and methods can lead to smarter, more informed strategies.**
 
 - This report reflects my analytical approach, the technology I used, and my problem-solving skills. I hope that as you explore this project, you get a genuine feel for how I work with data to create actionable insights and add value to business strategies.
 
