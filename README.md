@@ -16,9 +16,21 @@
 ### Sales Analysis Dashboard (Power BI)
 [Github](https://github.com/enskose/Power-BI-Analysis/tree/main)
 
-- Data Processing & Cleaning: Processed and cleaned raw data from Excel, 
-- Data Modeling: Built a relational data model in Power BI for optimized queries,
-- Interactive Visualizations: Designed dynamic charts, maps, and KPI indicators to analyze sales trends, 
-- Regional Sales Performance: Compared sales distribution across different regions to generate insights, 
-- Customer & Product Analysis: Analyzed top-selling products and customer segmentation. 
+- In this project, I’m excited to share my hands-on journey through a sales data analysis using Power BI. The report walks you through my process—from gathering and cleaning data, to modeling it with some neat DAX formulas, and finally, creating an interactive dashboard that brings the numbers to life.
+
+**What I Did:**
+
+> Data Collection and Preparation:
+- I started by collecting sales data from various sources and then spent some time cleaning and transforming it. This ensured I was working with reliable information right from the start.
+
+> Data Modeling and DAX Usage:
+- I built a comprehensive data model that ties everything together. To extract deeper insights, I utilized DAX formulas like CALCULATE and FILTER. These formulas helped me perform dynamic calculations under different scenarios and truly understand the performance trends.
+
+> Visualization and Dashboard Design:
+- Using Power BI, I created an interactive, user-friendly dashboard. This tool visually presents sales trends, regional distributions, and key performance metrics in a clear and engaging way. Along the journey, I also leveraged some Excel techniques for data prep to ensure everything was in tip-top shape.
+
+> Impact on Business Processes:
+- Beyond just crunching numbers, this report is all about how data-driven decision making can transform business processes. It’s a practical demonstration of how using the right tools and methods can lead to smarter, more informed strategies.
+
+- This report reflects my analytical approach, the technology I used, and my problem-solving skills. I hope that as you explore this project, you get a genuine feel for how I work with data to create actionable insights and add value to business strategies.
 
