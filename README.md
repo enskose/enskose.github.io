@@ -16,7 +16,7 @@
 ### Sales Analysis Dashboard (Power BI)
 [Github](https://github.com/enskose/Power-BI-Analysis/tree/main)
 
-- In this project, I’m excited to share my hands-on journey through a sales data analysis using Power BI. The report walks you through my process—from gathering and cleaning data, to modeling it with some neat DAX formulas, and finally, creating an interactive dashboard that brings the numbers to life.
+**In this project, I’m excited to share my hands-on journey through a sales data analysis using Power BI. The report walks you through my process—from gathering and cleaning data, to modeling it with some neat DAX formulas, and finally, creating an interactive dashboard that brings the numbers to life.**
 
 **What I Did:**
 
@@ -32,19 +32,5 @@
 > Impact on Business Processes:
 - Beyond just crunching numbers, this report is all about how data-driven decision making can transform business processes. It’s a practical demonstration of how using the right tools and methods can lead to smarter, more informed strategies.
 
-- This report reflects my analytical approach, the technology I used, and my problem-solving skills. I hope that as you explore this project, you get a genuine feel for how I work with data to create actionable insights and add value to business strategies.
+**This report reflects my analytical approach, the technology I used, and my problem-solving skills. I hope that as you explore this project, you get a genuine feel for how I work with data to create actionable insights and add value to business strategies.**
 
-# Test
-
-[^1]: This is the footnote.
-
-term
-: definition
-
-~~The world is flat.~~
-
-I need to highlight these ==very important words==.
-
-H~2~O
-
-X^2^
