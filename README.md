@@ -34,3 +34,17 @@
 
 - This report reflects my analytical approach, the technology I used, and my problem-solving skills. I hope that as you explore this project, you get a genuine feel for how I work with data to create actionable insights and add value to business strategies.
 
+# Test
+
+[^1]: This is the footnote.
+
+term
+: definition
+
+~~The world is flat.~~
+
+I need to highlight these ==very important words==.
+
+H~2~O
+
+X^2^
