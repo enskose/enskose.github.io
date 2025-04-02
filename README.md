@@ -14,7 +14,7 @@
 
 ## Projects
 ### Sales Analysis Dashboard (Power BI)
-[Github](https://github.com/enskose/Power-BI-Analysis/tree/main)
+[Project File](https://github.com/enskose/Power-BI-Analysis/tree/main)
 
 ![satis_dashboard](assets/img/satis_dashboard.jpg)
 
