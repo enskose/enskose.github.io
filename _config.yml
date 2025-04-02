@@ -3,8 +3,3 @@ show_downloads: true
 theme: jekyll-theme-minimal
 logo: assets/img/mezuniyet.jpg
 description: My journey to become a Data Analyst
-social:
-  instagram: "https://www.instagram.com/ensskose/?hl=tr"
-  twitter: "https://x.com/ensskse"
-  linkedin: "https://www.linkedin.com/in/eneskse/"
-  github: "https://github.com/enskose"
