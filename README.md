@@ -43,3 +43,11 @@
 
 - This report reflects my analytical approach, the technology I used, and my problem-solving skills. I hope that as you explore this project, you get a genuine feel for how I work with data to create actionable insights and add value to business strategies.
 
+## Certificates
+[Check My Certificate](https://globallycheck.com/Verified/OutCome?cn=TC2AEC1069B)
+- Certificate of Participation - TalentCoders (12/2024)
+> I participated in more than 20 technical trainings in the TechCamp 2 Program and received a certificate. Through these sessions, I had the opportunity to interact with prominent figures such as company executives and technical teams, gaining valuable insights and hands-on experience about the professional workings of the technology world.
+
+## Languages
+> English (B2)
+> Turkish (Native or Bilingual Proficiency)
