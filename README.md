@@ -15,6 +15,7 @@
 ## Projects
 ### Sales Analysis Dashboard (Power BI)
 [Github](https://github.com/enskose/Power-BI-Analysis/tree/main)
+
 ![satis_dashboard](assets/img/satis_dashboard.jpg)
 
 - In this project, I’m excited to share my hands-on journey through a sales data analysis using Power BI. The report walks you through my process—from gathering and cleaning data, to modeling it with some neat DAX formulas, and finally, creating an interactive dashboard that brings the numbers to life.
