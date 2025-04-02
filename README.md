@@ -1,6 +1,10 @@
 # Data Analyst
 
-### I am a passionate Data Analyst dedicated to transforming raw data into actionable insights. My hands-on experience with SQL, coupled with a solid grasp of SOLID principles, has laid the groundwork for my analytical work. Lately, I have been diving deep into modern BI tools like Power BI and LookML, while continuously expanding my skill set with Python, Jupyter, Pandas, Numpy, Matplotlib, and Seaborn. I thrive on learning and creativity, and I enjoy crafting innovative solutions that bring clarity to complex data.
+**While deepening my expertise as a backend developer, I discovered a genuine passion for data analysis that has reshaped my career path. Today, I blend my technical background with a commitment to transforming raw data into meaningful insights that drive decision-making.**
+
+**My analytical journey began with hands-on experience in SQL and a solid grasp of SOLID principles. Over time, I've embraced modern BI tools such as Power BI and LookML, and I'm continuously expanding my skill set with Python and its rich data ecosystem—working with Jupyter, Pandas, Numpy, Matplotlib, and Seaborn.**
+
+**This fusion of backend development and data analytics empowers me to craft innovative, data-driven solutions. I’m dedicated to learning and evolving in this field, and I’m excited to bring creative, insightful contributions to every project I work on.**
 
 > Technical Skills: **SQL, Power BI, Looker (LookML), Excel, Git, Python, (Pandas, NumPy), C# (.NET), Java, HTML5, CSS3, PHP**
 
