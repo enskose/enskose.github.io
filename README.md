@@ -49,5 +49,5 @@
 > I participated in more than 20 technical trainings in the TechCamp 2 Program and received a certificate. Through these sessions, I had the opportunity to interact with prominent figures such as company executives and technical teams, gaining valuable insights and hands-on experience about the professional workings of the technology world.
 
 ## Languages
-> English (B2)
+> English (Intermediate to Upper-Intermediate)
 > Turkish (Native or Bilingual Proficiency)
