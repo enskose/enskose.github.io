@@ -1,6 +1,8 @@
 # Data Analyst
 
-#### Technical Skills: SQL, Power BI, Looker (LookML), Excel, Git, Python, (Pandas, NumPy), C# (.NET), Java, HTML5, CSS3, PHP
+### I am a passionate Data Analyst dedicated to transforming raw data into actionable insights. My hands-on experience with SQL, coupled with a solid grasp of SOLID principles, has laid the groundwork for my analytical work. Lately, I have been diving deep into modern BI tools like Power BI and LookML, while continuously expanding my skill set with Python, Jupyter, Pandas, Numpy, Matplotlib, and Seaborn. I thrive on learning and creativity, and I enjoy crafting innovative solutions that bring clarity to complex data.
+
+> Technical Skills: **SQL, Power BI, Looker (LookML), Excel, Git, Python, (Pandas, NumPy), C# (.NET), Java, HTML5, CSS3, PHP**
 
 ## Education
 - Associate Degree, Computer Programming | Firat University (_June 2022 - July 2024_)
